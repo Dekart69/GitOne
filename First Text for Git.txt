@@ -1,0 +1,1 @@
+some text for git.This my second time of using git,actually.
